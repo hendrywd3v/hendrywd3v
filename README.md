@@ -1,8 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Hendryw+Lima;I+am+16+years+old;I+study+Software+Engineering+and+Cybersecurity;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
- <span style="color: #8A2BE2;">Technologies I know and I'm studying:</span>
+## <span style="color: #8A2BE2;">Technologies I know and I'm studying:</span>
 
 <!-- Stats Circle for Kotlin, Python and Java using shields.io -->
 <p align="left">
@@ -11,4 +10,3 @@
   <img src="https://img.shields.io/badge/Java-15%25-ADD8E6?style=flat&logo=java&logoColor=white" alt="Java"/>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer"/>

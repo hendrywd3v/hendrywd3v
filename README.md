@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Hendryw+Lima;i+am+16+years+old;i+study+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Hendryw+Lima;i+am+16+years+old;i+study+Software+Engineering+and+Cybersecurity;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## <span style="color: #8A2BE2;">📚Technologies I know and I'm studying:</span>
 
